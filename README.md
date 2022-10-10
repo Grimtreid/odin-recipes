@@ -1,2 +1,3 @@
 # odin-recipes
-1st-odin-project
+This is the first project got ODIN
+    Working on a simple site for recipe links.
